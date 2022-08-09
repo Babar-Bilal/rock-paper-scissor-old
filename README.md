@@ -1,7 +1,5 @@
 Rock, Paper or Scissors ODIN PROJECT part 1.
 
----------------------------Javascript------------------------------------
-
 Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file). This game is going to be played completely from the console.
 Game is called 'Rock', 'Paper', 'Scissors'. Against Computer in browser console.
 
@@ -17,31 +15,4 @@ Write a function 'Score' and compare 'PlayerScore' to 'ComputerScore' using '>' 
 
     console.log(Score(PlayerScore, ComputerScore))
 
---------------------------End of Javascript---------------------------------
 
---------------------------------HTML----------------------------------------
-
-Add sytles.css link
-Add a button that calls game() from javascript
-
-------------------------------End of HTML-----------------------------------
-
----------------------------------CSS----------------------------------------
-Inside styles.css write:
-
-.flex-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-button {
-    width: auto;
-    background-color: greenyellow;
-    border-radius: 20px;
-    font-size: xx-large;
-}
-button:hover {
-    cursor: pointer;
-}
-
---------------------------------END of CSS----------------------------------
