@@ -21,8 +21,8 @@ Write a function 'Score' and compare 'PlayerScore' to 'ComputerScore' using '>' 
 
 --------------------------------HTML----------------------------------------
 
-Add sytles.css <link>
-Inside <body> 
+Add sytles.css link
+Inside body 
     <div class="flex-container">
     <h1>ROCK, PAPER OR SCISSORS</h1>
     <button type="button" onclick="game()")>PLAY GAME!</button>
