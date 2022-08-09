@@ -22,14 +22,7 @@ Write a function 'Score' and compare 'PlayerScore' to 'ComputerScore' using '>' 
 --------------------------------HTML----------------------------------------
 
 Add sytles.css link
-Inside body 
-    <!-- <div class="flex-container">
-    <h1>ROCK, PAPER OR SCISSORS</h1>
-    <button type="button" onclick="game()")>PLAY GAME!</button>
-    <p>This version of the game is played in browser console.</p>
-    <p>Press CTRL + Shift + J to open console on Windows/Linux.</p>
-    <p>Press Option + J to open on Mac.</p>
-    </div> -->
+Add a button that calls game() from javascript
 
 ------------------------------End of HTML-----------------------------------
 
